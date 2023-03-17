@@ -1,6 +1,15 @@
-# TIL
-> It's all about `STEADINESS`
+# 🔥TIL
+> ## *日 新 又 日 新*
 
-## Writing Rules
-- write everything in english
-- write in detail
+## 작성 규칙
+### - `STEADINESS` : 매일 작성한다 
+### - `SINK IN` : 완벽히 이해한다
+
+## 🙋‍♂️TIL 스터디 참여 인원
+### 📆 2023.03.18 ~
+| 이름 | GITHUB |
+| --- | --- |
+| 양신희 | [Github](https://github.com/ysheep0906) |
+| 곽윤철 | [Github](https://github.com/YunDo-Gi) |
+| 남우성 | [Github](https://github.com/WoosungNam) |
+
