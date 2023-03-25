@@ -9,7 +9,8 @@
 ### 📆 2023.03.18 ~
 | 이름 | GITHUB |
 | --- | --- |
-| 양신희 | [Github](https://github.com/ysheep0906) |
-| 곽윤철 | [Github](https://github.com/YunDo-Gi) |
-| 남우성 | [Github](https://github.com/WoosungNam) |
+| 양신희 | [Github](https://github.com/ysheep0906/TIL) |
+| 곽윤철 | [Github](https://github.com/YunDo-Gi/TIL) |
+| 남우성 | [Github](https://github.com/WoosungNam/TIL) |
+
 
